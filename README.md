@@ -4,7 +4,7 @@ Le projet DeBruijnGen est un ensemble de scripts Python conçus pour construire,
 
 ## Description
 
-Le projet [Nom du Projet] propose trois scripts Python pour effectuer différentes étapes de traitement sur les données génomiques :
+Le projet DeBruijnGen propose trois scripts Python pour effectuer différentes étapes de traitement sur les données génomiques :
 
 1. `debruijn_build.py`: Ce script prend en entrée un fichier au format FASTA contenant des séquences génomiques et construit le graphe de De Bruijn correspondant. Le graphe de De Bruijn est ensuite enregistré dans un fichier de sortie au format graph.
 
@@ -54,13 +54,6 @@ Le projet contient les trois fichiers suivants :
 - `debruijn_build.py`: Script pour construire le graphe de De Bruijn à partir d'un fichier FASTA.
 - `debruijn_merge.py`: Script pour fusionner les nœuds représentant les complémentaires inverses du graphe.
 - `debruijn_cut.py`: Script pour éliminer les nœuds tips du graphe.
-
-## Contact
-
-Si vous avez des questions ou des commentaires sur le projet, vous pouvez contacter les auteurs du projet :
-
-- Elena Fouillet (contact@elenafouillet.com)
-- Louise Hartmann (louise.hartmann@example.com)
 
 
 
